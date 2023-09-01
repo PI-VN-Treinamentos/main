@@ -1,2 +1,2 @@
 # main
-Repositória Geral
+Repositório Geral
